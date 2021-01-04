@@ -1,7 +1,6 @@
 ### 안녕 ~ 안녕 ~ 👋
 
-
-![Mono's github stats](https://github-readme-stats.vercel.app/api?username=gitdog01&show_icons=true&theme=dracula)
+오늘도 내일도 모레도 열심히 개발하고, 주말에는 재미있는 것을 찾아보자 ! ( 직장도 찾아보자 ! ㅠ )
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdog01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
