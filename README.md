@@ -2,6 +2,15 @@
 
 오늘도 내일도 모레도 열심히 개발하고, 주말에는 재미있는 것을 찾아보자 ! ( 직장도 찾아보자 ! ㅠ )
 
+#### To Do List
+- **직장 구하기**
+- TypeScript 더 공부하기
+- Deno 사용해보기
+- JAVA spring FrameWork 공부하기
+- 코드포스 해보기
+- 서버에 대한 공부하기
+- 클린코드 책 마져 읽기
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdog01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
