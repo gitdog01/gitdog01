@@ -1,6 +1,9 @@
 ### 안녕 ~ 안녕 ~ 👋
 
 
+![Mono's github stats](https://github-readme-stats.vercel.app/api?username=gitdog01&show_icons=true&theme=dracula)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdog01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
