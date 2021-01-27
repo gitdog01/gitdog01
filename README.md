@@ -9,6 +9,7 @@
 - JAVA spring FrameWork 공부하기
 - 코드포스 해보기
 - 서버에 대한 공부하기
+- Kafka 해보기
 - 클린코드 책 마져 읽기
 - velog 에 더 흥미있는 글 쓰는 방법 연구하기
 
